@@ -1,0 +1,11 @@
+{
+  "appName": "online-boutique",
+  "userGivenName": "online-boutique",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/online-boutique/overlays/dev",
+  "srcRepoURL": "https://github.com/mtiutiu-heits/argocd-testing.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
